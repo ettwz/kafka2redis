@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.hand.hmall:util:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hand/hmall/util/1.0-SNAPSHOT/util-1.0-20161220.070215-19.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hand/hmall/util/1.0-SNAPSHOT/util-1.0-20161220.070215-19-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hand/hmall/util/1.0-SNAPSHOT/util-1.0-20161220.070215-19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
